@@ -6,5 +6,6 @@ public class CrreateTest {
 		
 			System.out.println("This is demo framework");
 			System.out.println("hie");
+			System.out.println("hie");
 			}
 }
